@@ -6,10 +6,13 @@
 ## Mockup projeto:
 ![](https://i.ibb.co/1L91SJv/mockup.png)
 
-**Nossas redes:**
+**Créditos:**
 
 Instagram: [@sujeitoprogramador](https://www.instagram.com/sujeitoprogramador/)
 
 Blog: [https://sujeitoprogramador.com](https://sujeitoprogramador.com/)
 
 Youtube: [sujeitoprogramador](https://www.youtube.com/c/Sujeitoprogramador/)
+
+
+PROJETO CONCLUÍDO COM A VÍDEOAULA DO SUJEITOPROGRAMADOR!
