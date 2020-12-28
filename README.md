@@ -6,7 +6,7 @@
 ## Mockup projeto:
 ![](https://i.ibb.co/1L91SJv/mockup.png)
 
-**Nossas redes:**
+**Créditos:**
 
 Instagram: [@sujeitoprogramador](https://www.instagram.com/sujeitoprogramador/)
 
